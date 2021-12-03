@@ -24,8 +24,8 @@ public class SwaggerConfig {
     }
 
     private ApiInfo getApiInfo() {
-        return new ApiInfo("Order Service API", "Order Service API Description", "1.0", "http://codmind.com/terms",
-                new Contact("Codmind", "https://codmind.com", "apis@codmind.com"), "LICENSE", "LICENSE URL",
+        return new ApiInfo("Java Talent Camp", "NTTData", "0.0.1", "",
+                new Contact("Ramitax", "https://ramitax.github.io/Portfolio/", "ramitax.dev@gmail.com"), "LICENSE", "LICENSE URL",
                 Collections.emptyList()
 
         );
